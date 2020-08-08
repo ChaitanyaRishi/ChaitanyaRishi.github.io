@@ -773,7 +773,7 @@ ul.address li ul.agileits-address-text li a {
 }
 
 .flex-control-nav {
-	justify-content: center;
+	opacity: 0;
 }
 
 .stats {
