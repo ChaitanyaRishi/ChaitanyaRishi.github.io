@@ -772,6 +772,10 @@ ul.address li ul.agileits-address-text li a {
 	justify-content: center;
 }
 
+.flex-control-nav {
+	justify-content: center;
+}
+
 .stats {
 	background: url(../images/services.jpg) no-repeat 0px 0px;
 	background-size: cover;
