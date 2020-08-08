@@ -671,14 +671,14 @@ ul.address li ul.agileits-address-text li a {
 	margin-top: 2em;
 }
 
-.about_right .w3l,
+.about_right .w3l:hover,
 .about_right .w3ls_more:hover {
 	border: 2px solid #333;
 	color: #333 !important;
 	background: none;
 }
 
-.about_right .w3l:hover,
+.about_right .w3l,
 .about_right .w3ls_more {
 	border: 2px solid #333;
 	color: #fff !important;
