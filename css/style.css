@@ -220,7 +220,7 @@ nav.w3-navbar {
 	font-size: 15px;
 }
 
-.w3l_contact,
+.w3l_contact:hover,
 .w3ls_more:hover {
 	border: 2px solid #fff;
 	color: #ffffff !important;
@@ -228,7 +228,7 @@ nav.w3-navbar {
 }
 
 .w3ls_more,
-.w3l_contact:hover {
+.w3l_contact {
 	border: 2px solid #ffffff;
 	background: #ffffff;
 	color: #000 !important;
