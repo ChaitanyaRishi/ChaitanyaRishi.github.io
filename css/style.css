@@ -220,6 +220,14 @@ nav.w3-navbar {
 	font-size: 15px;
 }
 
+.w3ls_more,
+.w3l_contact {
+	border: 2px solid #ffffff;
+	background: #ffffff;
+	color: #000 !important;
+}
+
+
 .w3l_contact:hover,
 .w3ls_more:hover {
 	border: 2px solid #fff;
@@ -227,12 +235,6 @@ nav.w3-navbar {
 	background: none;
 }
 
-.w3ls_more,
-.w3l_contact {
-	border: 2px solid #ffffff;
-	background: #ffffff;
-	color: #000 !important;
-}
 
 .agileinfo-news-button {
 	margin-top: 35px;
