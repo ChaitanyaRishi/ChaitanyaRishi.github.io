@@ -461,14 +461,26 @@ ul.list-check li::before {
 
 /* projects, experience, etc */
 #projects {
-    background-color:  #68c3a3;
+    background-color: antiquewhite;
 }
+
+.card {
+    background-color: #2c3e50;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+} 
 
 .card-link {
     color: white;
+    border: 2px antiquewhite solid;
+    padding: 5px;
 }
 .card-link:hover {
     color: white;
+}
+
+#card-link-div {
+    margin-top: 10px;
 }
 
 /* === HOME === */
