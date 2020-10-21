@@ -461,10 +461,15 @@ ul.list-check li::before {
 
 /* projects, experience, etc */
 #projects {
-    background-color: aquamarine;
+    background-color:  #68c3a3;
 }
 
-
+.card-link {
+    color: white;
+}
+.card-link:hover {
+    color: white;
+}
 
 /* === HOME === */
 @media (max-width : 640px) {
